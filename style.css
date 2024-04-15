@@ -1,0 +1,429 @@
+.bar{
+    
+    margin-left: 1260px;
+    position: relative;
+    bottom: 10px;
+}
+#navv{
+    color: purple;
+    font-weight: 800;
+    margin-left: 70px;
+    font-size: larger;
+}
+.img1{
+    height: 500px;
+    width: 80%;
+    /* margin-top: 60px; */
+    margin-left: 40px;
+    position: relative;
+    top: 60px;
+
+
+    
+}
+.sec1{
+    background-color: hsl(0deg 0% 89.41%);
+    height: 300px;
+    
+}
+#para1{
+    color: rgb(134, 5, 134);
+    margin-top: 160px;
+    font-weight: 600;
+    
+}
+#para2{
+    margin-right: 200px;
+    margin-right: 100px;
+}
+.con1{
+    background-color: hsl(330.27deg 98.21% 43.92%);
+    color: white;
+    text-align: center;
+    font-stretch: ultra-expanded;
+    height: 350px;
+    width: 90%;
+    margin-left: 60px;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: relative;
+    right: 60px;
+    bottom: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#para3{
+    margin-top: 30px;
+    font-weight: 570;
+    
+
+}
+#btn1{
+    background-color: hsl(330.27deg 98.21% 43.92%);
+    border: 2px solid white;
+    width: 50%;
+    border-radius: 0px;
+    margin-top: 30px;
+}
+#cont2{
+    background-color: white;
+    height: 500px;
+    width: 80%;
+    padding: 20px 150px 20px 20px;
+    position: relative;
+    right: 90px;
+    bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    z-index:3;
+}
+
+.img2{
+    height: 600px;
+    width: 100%;
+    margin-top: 100px;
+    z-index: index 2;
+
+}
+
+/* .before::before{ */
+    /* content:url(assets/img/earth-striped-circle.png); */
+    /* height: 20px; */
+    /* width: 10%; */
+/* } */
+
+#btn2{
+    border: 2px solid black;
+    border-radius:0px;
+    width: 50%;
+    margin-top: 50px;
+}
+#circle{
+    width: 170px;
+    height: 170px;
+    background: hsl(29.21deg 90.48% 49.41%);
+    border-radius: 50%;
+    margin-left: 260px;
+    position: relative;
+    top: 70px;
+    
+}
+
+#cont3{
+    background-color: hsl(277.38deg 60.75% 58.04%);
+    width: 100%;
+    height: 300px;
+    position: relative;
+    bottom: 220px;
+    right: 150px;
+    z-index:-1;
+    
+}
+.specialimg{
+    height: 200px;
+    width: 40%;
+    position: relative;
+    bottom: 90px;
+    right: 80px;
+    
+}
+.sec4{
+    /* margin-top: 80px; */
+}
+.cont4{
+    background-color: hsl(330.27deg 98.21% 43.92%);
+    height: 450px;
+    width: 100%;
+    color: white;
+    padding-left: 20px;
+    padding-top: 130px;
+    padding-right: 100px;
+    font-weight: 500;
+}
+.cont5{
+    font-stretch: extra-expanded;
+    font-weight: 500;
+    margin-top: 120px;
+    padding-right: 50px;
+
+
+}
+.next{
+    color: white;
+    font-size: 100px;
+    
+}
+.img3{
+    height: 450px;
+    width: 100%;
+}
+#i2{
+    margin-left: 10px;
+
+}
+#i3{
+    margin-left: 10px;
+
+}
+#i4{
+    margin-left: 10px;
+
+}
+.img4{
+    height: 610px;
+    width: 80%;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.img5{
+    height: 100px;
+    width: 30%;
+
+}
+.img6{
+    height: 100px;
+    width: 30%;
+
+}
+.img7{
+    height: 50px;
+    width: 30%;
+
+}
+#cont6{
+    background-color: hsl(0deg 0% 89.41%);
+    height: 760px;
+}
+#cont7{
+    height: 280px;
+    width: 40%;
+    padding-top: 50px;
+    text-align: center;
+    margin-top: 80px;
+    background-color: hsl(330.27deg 98.21% 43.92%);
+    color: white;
+    position: relative;
+    right: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#cont8{
+    height: 340px;
+    width: 40%;
+    padding-top: 90px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: hsl(29.21deg 90.48% 49.41%);
+    color: white;
+    margin-top: 250px;
+    margin-left: 15px;
+    position: relative;
+    right: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#cont9{
+    height: 300px;
+    width: 38%;
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(164 81 214);
+    color: white;
+    position: absolute;
+    right: 500px;
+    top: 390px;
+    /* bottom: 200px; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+#para4{
+    text-align: center;
+    font-weight: 700;
+}
+#para5{
+    margin-left: 160px;
+    margin-right: 160px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#cont10{
+    background-color: rgb(164 81 214);
+    height: 550px;
+    margin-top: 30px;
+    margin-left: 70px;
+    
+    width: 30%;
+    
+}
+.img8{
+    height: 300px;
+    width: 90%;
+    margin-top: 30px;
+    margin-left: 15px;
+
+}
+.para6{
+    color: white;
+    margin-left: 10px;
+    
+
+}
+.para7{
+    color: white;
+    padding-right: 20px;
+    text-align: left;
+    margin-left: 10px;
+
+}
+#cont11{
+    
+    background-color: white;
+    height: 550px;
+    margin-top: 30px;
+    width: 25%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+    
+
+}
+#cont12{
+   /* background-color: hsl(29.21deg 90.48% 49.41%); */
+    /* color: white; */
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.yellow{
+    background-color:hsl(29.21deg 90.48% 49.41%);
+    height: 280px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 90%;
+    position: relative;
+    right: 20px;
+    
+    
+}
+.img9{
+    height: 270px;
+    width: 90%;
+    position: relative;
+    right: 20px;
+    
+
+}
+.para8{
+    margin-left: 18px;
+    margin-right: 20px;
+    margin-top: 30px;
+
+
+}
+.para9{
+    margin-left: 20px;
+    padding-right: 70px;
+
+}
+.para10{
+    margin-top: 150px;
+    margin-left: 20px;
+
+}
+.para11{
+    padding-right: 50px;
+    margin-left: 20px;
+
+}
+.para12{
+    background-color: hsl(29.21deg 90.48% 49.41%);
+    background: transparent;
+}
+.sec6{
+    
+    position: relative;
+    top: 150px;
+
+}
+.gray{
+    background-image: url(https://img.freepik.com/premium-photo/cute-light-brown-chihuahua-dog-sitting-pink-living-room-setting_152904-4055.jpg?w=740);
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    margin-top: 30px;
+    position: relative;
+    top: 270px;
+
+}
+.sec7{
+    height: 1600px;
+    background-color:  hsl(0deg 0% 89.41%);
+    
+}
+.para12{
+    color: white;
+    font-weight: 500;
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 40px;
+    
+}
+.sec8{
+    height:350px;
+    background-color: hsl(330.27deg 98.21% 43.92%);
+    /* position: relative; */
+    /* bottom: 500px; */
+    position: relative;
+    bottom: 500px;
+}
+.cont13,.cont14,.cont15{
+    margin-top: 40px;
+    color: white;
+    margin-right: 300px;
+    
+}
+#i5,#i6,#i7{
+    padding-right: 20px;
+}
+.cont16{
+    background-color: white;
+    padding: 40px;
+    height: 440px;
+    position: relative;
+    bottom: 40px;
+    
+}
+#input1{
+    border-color: white;
+    border-bottom: 3px solid black;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+#input2{
+    border-color: white;
+    border-bottom: 3px solid black;
+    margin-top: 40px;
+}
+#input3{
+    border-color: white;
+    border-bottom: 3px solid black;
+    margin-top: 60px;
+
+}
+#last-btn{
+    margin-top: 25px;
+    margin-left: 30px;
+    border: 2px solid black;
+    background-color: white;
+    border-radius: 0px;
+    width: 30%;
+
+}
+.para13{
+    padding-top: 10px;
+}
+/* footer{ */
+    /* background-color: rgb(68, 57, 57); */
+    /* padding: 30px; */
+    /* color: white; */
+/* } */
